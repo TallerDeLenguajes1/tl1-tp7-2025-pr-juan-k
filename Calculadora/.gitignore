@@ -1,0 +1,6 @@
+*.Csharp
+*.VisualStudioCode
+*.DotnetCore
+*obj
+*bin
+*.exe
